@@ -1,7 +1,7 @@
 <h2>Olá! Eu sou o Rodrigo Garcez</h2>
 
-- 🔭 Hoje estou apenas estudando, porem em 2022 ja começo a trabalhar!
-- 🌱 Estudando Python e Java
+- 🔭 Hoje estudo para me tornar um dev full stack e trabalho na área.
+- 🌱 Estudante | Estágio
 - 👯 Busco colaborar como desenvolvedor full stack
 <div >
   <a href="https://github.com/Rodrigo020502">

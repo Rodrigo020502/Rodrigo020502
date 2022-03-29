@@ -3,10 +3,7 @@
 - 🔭 Hoje estudo para me tornar um dev full stack e trabalho na área.
 - 🌱 Estudante | Estágio
 - 👯 Busco colaborar como desenvolvedor full stack
-<div >
-  <a href="https://github.com/Rodrigo020502">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo020502&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

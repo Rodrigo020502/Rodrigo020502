@@ -1,8 +1,8 @@
 <h2>Olá! Eu sou o Rodrigo Garcez</h2>
 
-- 🔭 Hoje estudo para me tornar um dev full stack e trabalho na área.
-- 🌱 Estudante | Estágio
-- 👯 Busco colaborar como desenvolvedor full stack
+- 🔭 Hoje estudo para me tornar um DevOps e trabalho na área.
+- 🌱 Estudante | Analista DevOps
+- 👯 Busco colaborar como analista DevOps
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
